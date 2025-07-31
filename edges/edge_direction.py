@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # --- 1. Define the Place & Parameters ---
 address_name = "Praça dos Três Poderes, Brasília, Brazil"
-map_distance = 1500 # Distance in meters (1.5 km)
+map_distance = 500 # Distance in meters (1.5 km)
 
 # NEW: Parameters to control arrow position and size
 # The arrow will be drawn from the point at `start_pos` to the point at `end_pos`
