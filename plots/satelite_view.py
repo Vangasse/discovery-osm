@@ -43,7 +43,7 @@ try:
     # --- 6. Customize and Show the Plot ---
     # Remove the axis labels for a cleaner look
     ax.set_axis_off()
-    ax.set_title(f"Street Network around {address_name}", fontsize=14, color='white', y=0.98)
+    ax.set_title(f"Street Network around {address_name}", fontsize=14, color='black')
 
 
     # Display the plot.
